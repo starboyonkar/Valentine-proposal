@@ -2,7 +2,7 @@
 
 ## 💝 A Special Moment
 
-![Valentine Proposal](waiting-patiently.gif)
+![Valentine Proposal](bear-love-you.gif)
 
 ## About This Project
 
@@ -16,8 +16,6 @@ This is a heartfelt Valentine's Day proposal web application built with love and
 - 📱 Responsive layout
 
 ### Gallery
-
-Add your GIF files here:
 
 - ![GIF 1](Bear-flaying-kiss.gif)
 - ![GIF 2](Kiss-bear.gif)
